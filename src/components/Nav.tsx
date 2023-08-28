@@ -29,6 +29,7 @@ const Nav = () => {
               <a
                 href={item.href}
                 className='font-montserrat leading-normal text-lg text-slate-gray'
+                onClick={() => setMobileNavVisible(false)}
               >
                 {item.label}
               </a>
