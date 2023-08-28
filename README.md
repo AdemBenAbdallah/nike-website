@@ -1,3 +1,4 @@
+<img src="https://files.cults3d.com/uploaders/15233766/illustration-file/1eed0015-b833-4838-b577-1785b9c96a35/1.jpg" alt="logo nike"/>
 # Nike Landing Page
 
 Welcome to the Nike Landing Page project! This is a React application built using TypeScript and styled with Tailwind CSS. The project aims to showcase a responsive and visually appealing landing page inspired by Nike's design.
