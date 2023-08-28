@@ -1,7 +1,10 @@
 import React from "react";
 
 interface ShoeCardProps {
-    imgUrl: string;
+    imgURL: {
+        thumbnail: string;
+        bigShoe: string;
+    };
     changeBigShoeImage: (shoe: string) => void;
     bigShoeImg: string;
 }
